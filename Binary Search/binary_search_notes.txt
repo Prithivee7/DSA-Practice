@@ -1,0 +1,18 @@
+int(8.99999) -> 8
+8//3 -> 2
+So these functions only take the complete number and leave out the decimal
+
+####################################################################################################
+low = 0
+When high is an even number
+int((low+high)/2) == low + int((high-low)/2) == low + int((high-low+1)/2)
+
+When high is an odd number
+int((low+high)/2) == low + int((high-low)/2)
+Whereas low + int((high-low+1)/2) is one more than int((low+high)/2) and low + int((high-low)/2)
+
+#####################################################################################################
+Refer to the below article for variations
+https://leetcode.com/discuss/interview-question/1322500/5-variations-of-Binary-search-(A-Self-Note)
+
+######################################################################################################

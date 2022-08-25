@@ -1,0 +1,71 @@
+Arrays and Strings
+	Kadane's Algorithm
+	Dutch National Flag Algorithm
+	Sliding Window Algorithm
+	Two Pointers
+	
+Multi dimensional arrays
+	Traversal type - traverse array in zig zag type, spiral type
+	Rotation type - rotate, transpose
+
+Recursion and Backtracking
+	Basic problems - Fibnocci, Factorial
+	Divide and Conquer - Merge sort
+
+Sorting Algorithm
+
+Binary Search
+	Applications - Kunal Kushwaha
+	Binary search on Arrays
+	Binary search on Matrix
+
+Linked Lists
+	Reversal problems
+	Sorting - Merge, Quick
+	Slow and Fast pointers
+	
+Stacks and Queues
+	Implementation based problems -> Using array and Linkedlists
+	Application based problems
+
+Binary Trees
+	Tree Traversals - Inorder, Preorder, Postorder
+	Construction of Trees - Given Preorder and postorder how will the binary tree be?
+	Tree Views - Top view, Bottom view
+	Removal , Insertion
+	BST
+
+Priority Queues and Heaps
+	Implementation based problems -> Amazon probelm
+	Conversion based problems - Convert BST into Heap	
+	K based problems - Kth largest and smallest
+
+Graphs - Hard problems asked in Google and Facebook mostly
+	Graph Traversal - BFS and DFS
+	Minimum Spanning Trees
+	Shortest Path Algorithms
+	Topological Sort
+	Graph in Matrix
+
+Dynamic Programming - Advanced version of Recursion
+	DP with Arrays
+	DP with Strings
+	DP with Trees
+	Breaking and Partitioning problems - how many ways can u break it
+	Counting based Problems
+
+Hard Recursion and Backtracking Questions
+
+Additionally
+	Hashmaps
+	Tries
+	Bit Manipulation
+	Greedy
+	Circular Queues
+	Deque -> hot topic (Google)
+	Doubly and circular Linkedlists
+	String algorithms like KMP and Z algorithm
+	
+
+Can complete in 6 months 
+Do 20 questions in each type -> Totally 300-400 questions

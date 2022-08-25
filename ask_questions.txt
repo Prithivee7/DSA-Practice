@@ -1,0 +1,7 @@
+Ask as many questions to the interview as possible.
+
+Create a sample function which accepts the sample input and returns the sample output.
+
+Create a list of test cases before starting to code.
+
+Explain the approach before coding
