@@ -16,3 +16,23 @@ Refer to the below article for variations
 https://leetcode.com/discuss/interview-question/1322500/5-variations-of-Binary-search-(A-Self-Note)
 
 ######################################################################################################
+
+Initial length -> N
+First iteration -> N/2 -> N/2^1
+Second iteration -> N/4 -> N/2^2
+kth iteration -> N/2^k
+
+Since the final length of the array is 1 -> N/2^k = 1
+N = 2^k
+Taking log on both sides
+logN = k
+
+For 10 million numbers linear search does 10 million comparisons Whereas
+binary search does c * log(10 million) -> c * 7 -> If we have a value of c as 3.
+Then it would take just 21 comparisons.
+In other words binary search is faster than linear search by c * N /logN times.
+
+
+
+
+
